@@ -40,7 +40,7 @@ kotlin {
 }
 
 android {
-    namespace = "dev.cancio.brazilfields"
+    namespace = "io.github.filipecancio"
     compileSdk = libs.versions.android.compileSdk.get().toInt()
     defaultConfig {
         minSdk = libs.versions.android.minSdk.get().toInt()
