@@ -1,5 +1,5 @@
 # ![image](https://github.com/user-attachments/assets/7a231581-1d6a-43fa-9a94-ad256ceab57a)
-
+O jeito mais fácil de utilizar padrões e formatos brasileiros em seu projeto. Este projeto é baseado no [flutterbootcamp/brasil_fields](https://github.com/flutterbootcamp/brasil_fields), com o objetivo de trazer a mesma biblioteca flutter para jetpack compose e kotlin multiplatform.
 
 [![official project](http://jb.gg/badges/official.svg)](https://github.com/JetBrains#jetbrains-on-github)
 
