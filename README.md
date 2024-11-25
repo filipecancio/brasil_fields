@@ -1,3 +1,6 @@
+# ![image](https://github.com/user-attachments/assets/7a231581-1d6a-43fa-9a94-ad256ceab57a)
+
+
 [![official project](http://jb.gg/badges/official.svg)](https://github.com/JetBrains#jetbrains-on-github)
 
 # Multiplatform library template
